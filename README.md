@@ -13,7 +13,7 @@
     Featuring a dynamic 3D character scene, smooth GSAP scroll animations, custom cursor effects, and immersive transitions.
   </p>
 
-  <a href="https://akashsaha-profile.netlify.app/" target="_blank">
+  <a href="https://akashsaha.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live_Demo-FF3366?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
   </a>
   &nbsp;&nbsp;
